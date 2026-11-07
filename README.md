@@ -1,6 +1,6 @@
 # Szasz–Mirakyan cumulative hazard estimation
 
-R code for *Smooth cumulative hazard function using Szász–Mirakyan operators for right-censored data*, by Guanjie Lyu and Cindy Feng.
+R code for *Smooth cumulative hazard function using Szász–Mirakyan operators for right-censored data* by Guanjie Lyu and Cindy Feng.
 
 This repository contains only R source files and this README. It implements the estimators, simulations, figures, and tables. The clinical examples read public data directly from the `KMsurv` and `survival` packages. No datasets or previously generated results are bundled.
 
